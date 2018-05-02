@@ -1,4 +1,4 @@
-# va-carousel
+# va-carousel （用作以后参考）
 
 > 一个基于 vue 的图片轮播组件
 
